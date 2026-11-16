@@ -1,0 +1,562 @@
+[
+ {
+  "abbr": "BS",
+  "name": "기본"
+ },
+ {
+  "abbr": "TRN",
+  "name": "열차"
+ },
+ {
+  "abbr": "DAY",
+  "name": "요일"
+ },
+ {
+  "abbr": "TGT",
+  "name": "대상"
+ },
+ {
+  "abbr": "PRCD",
+  "name": "선행"
+ },
+ {
+  "abbr": "RGTR",
+  "name": "등록자"
+ },
+ {
+  "abbr": "REG",
+  "name": "등록"
+ },
+ {
+  "abbr": "CHG",
+  "name": "변경"
+ },
+ {
+  "abbr": "RVS",
+  "name": "개정"
+ },
+ {
+  "abbr": "HSP",
+  "name": "고속"
+ },
+ {
+  "abbr": "LCM",
+  "name": "동력차"
+ },
+ {
+  "abbr": "PSC",
+  "name": "객차"
+ },
+ {
+  "abbr": "CRG",
+  "name": "수송"
+ },
+ {
+  "abbr": "RCV",
+  "name": "수신"
+ },
+ {
+  "abbr": "RSV",
+  "name": "예약"
+ },
+ {
+  "abbr": "PLN",
+  "name": "계획"
+ },
+ {
+  "abbr": "IMP",
+  "name": "주요"
+ },
+ {
+  "abbr": "SRT",
+  "name": "분류"
+ },
+ {
+  "abbr": "ROUT",
+  "name": "노선"
+ },
+ {
+  "abbr": "UDWN",
+  "name": "상하행"
+ },
+ {
+  "abbr": "RUN",
+  "name": "운행"
+ },
+ {
+  "abbr": "LGTM",
+  "name": "장기"
+ },
+ {
+  "abbr": "DALC",
+  "name": "회송"
+ },
+ {
+  "abbr": "BIZ",
+  "name": "영업"
+ },
+ {
+  "abbr": "BF",
+  "name": "이전"
+ },
+ {
+  "abbr": "SUCS",
+  "name": "후속"
+ },
+ {
+  "abbr": "CPS",
+  "name": "편성"
+ },
+ {
+  "abbr": "APL",
+  "name": "적용"
+ },
+ {
+  "abbr": "DIRT",
+  "name": "직통"
+ },
+ {
+  "abbr": "PRC",
+  "name": "운임"
+ },
+ {
+  "abbr": "LN",
+  "name": "선"
+ },
+ {
+  "abbr": "STN",
+  "name": "역"
+ },
+ {
+  "abbr": "TRK",
+  "name": "선로"
+ },
+ {
+  "abbr": "ARV",
+  "name": "도착"
+ },
+ {
+  "abbr": "DPT",
+  "name": "출발"
+ },
+ {
+  "abbr": "VC",
+  "name": "속도"
+ },
+ {
+  "abbr": "STOP",
+  "name": "정차"
+ },
+ {
+  "abbr": "INTV",
+  "name": "역간"
+ },
+ {
+  "abbr": "ACM",
+  "name": "누적"
+ },
+ {
+  "abbr": "MREA",
+  "name": "수도권"
+ },
+ {
+  "abbr": "SOL",
+  "name": "서울"
+ },
+ {
+  "abbr": "STD",
+  "name": "표준"
+ },
+ {
+  "abbr": "ATPL",
+  "name": "대안"
+ },
+ {
+  "abbr": "CAR",
+  "name": "차량"
+ },
+ {
+  "abbr": "OP",
+  "name": "운용"
+ },
+ {
+  "abbr": "ST",
+  "name": "시작"
+ },
+ {
+  "abbr": "ALT",
+  "name": "충당"
+ },
+ {
+  "abbr": "CVR",
+  "name": "주행"
+ },
+ {
+  "abbr": "NEW",
+  "name": "신규"
+ },
+ {
+  "abbr": "EXS",
+  "name": "기존"
+ },
+ {
+  "abbr": "CLS",
+  "name": "종료"
+ },
+ {
+  "abbr": "EFC",
+  "name": "시행"
+ },
+ {
+  "abbr": "REP",
+  "name": "대표"
+ },
+ {
+  "abbr": "TMP",
+  "name": "임시"
+ },
+ {
+  "abbr": "NO",
+  "name": "번호"
+ },
+ {
+  "abbr": "CD",
+  "name": "코드"
+ },
+ {
+  "abbr": "ID",
+  "name": "ID"
+ },
+ {
+  "abbr": "DTTM",
+  "name": "일시"
+ },
+ {
+  "abbr": "PS",
+  "name": "자"
+ },
+ {
+  "abbr": "DT",
+  "name": "일자"
+ },
+ {
+  "abbr": "RSN",
+  "name": "사유"
+ },
+ {
+  "abbr": "APV",
+  "name": "승인"
+ },
+ {
+  "abbr": "AUTZR",
+  "name": "승인자"
+ },
+ {
+  "abbr": "CRW",
+  "name": "승무원"
+ },
+ {
+  "abbr": "SALE",
+  "name": "발매"
+ },
+ {
+  "abbr": "BLG",
+  "name": "소속"
+ },
+ {
+  "abbr": "USE",
+  "name": "사용"
+ },
+ {
+  "abbr": "DV",
+  "name": "구분"
+ },
+ {
+  "abbr": "CLSF",
+  "name": "종별"
+ },
+ {
+  "abbr": "FLG",
+  "name": "여부"
+ },
+ {
+  "abbr": "ATT",
+  "name": "속성"
+ },
+ {
+  "abbr": "NET",
+  "name": "순"
+ },
+ {
+  "abbr": "CL",
+  "name": "등급"
+ },
+ {
+  "abbr": "ORDR",
+  "name": "순서"
+ },
+ {
+  "abbr": "TM",
+  "name": "시각"
+ },
+ {
+  "abbr": "FLC",
+  "name": "변동"
+ },
+ {
+  "abbr": "DRV",
+  "name": "운전"
+ },
+ {
+  "abbr": "DST",
+  "name": "거리"
+ },
+ {
+  "abbr": "SUBW",
+  "name": "지하철"
+ },
+ {
+  "abbr": "FUNC",
+  "name": "기능"
+ },
+ {
+  "abbr": "SEG",
+  "name": "구간"
+ },
+ {
+  "abbr": "CONS",
+  "name": "구성"
+ },
+ {
+  "abbr": "LANE",
+  "name": "차선"
+ },
+ {
+  "abbr": "NM",
+  "name": "명"
+ },
+ {
+  "abbr": "VIA",
+  "name": "경유"
+ },
+ {
+  "abbr": "PLAN",
+  "name": "설계"
+ },
+ {
+  "abbr": "STT",
+  "name": "상태"
+ },
+ {
+  "abbr": "TRSM",
+  "name": "송신"
+ },
+ {
+  "abbr": "SYS",
+  "name": "시스템"
+ },
+ {
+  "abbr": "OPN",
+  "name": "공개"
+ },
+ {
+  "abbr": "DIR",
+  "name": "방향"
+ },
+ {
+  "abbr": "HR",
+  "name": "시간"
+ },
+ {
+  "abbr": "HM",
+  "name": "시분"
+ },
+ {
+  "abbr": "ELPS",
+  "name": "경과"
+ },
+ {
+  "abbr": "SQNO",
+  "name": "일련번호"
+ },
+ {
+  "abbr": "TMN",
+  "name": "종착"
+ },
+ {
+  "abbr": "DEGR",
+  "name": "차수"
+ },
+ {
+  "abbr": "DNO",
+  "name": "일수"
+ },
+ {
+  "abbr": "RLTV",
+  "name": "상대"
+ },
+ {
+  "abbr": "SN",
+  "name": "일련번호"
+ },
+ {
+  "abbr": "USR",
+  "name": "사용자"
+ },
+ {
+  "abbr": "DUTY",
+  "name": "업무"
+ },
+ {
+  "abbr": "SBJ",
+  "name": "주제"
+ },
+ {
+  "abbr": "EDU",
+  "name": "교육"
+ },
+ {
+  "abbr": "PJT",
+  "name": "사업"
+ },
+ {
+  "abbr": "CREW",
+  "name": "승무"
+ },
+ {
+  "abbr": "ACHV",
+  "name": "수행"
+ },
+ {
+  "abbr": "PSNO",
+  "name": "인원"
+ },
+ {
+  "abbr": "SUBT",
+  "name": "적합성"
+ },
+ {
+  "abbr": "PTRN",
+  "name": "패턴"
+ },
+ {
+  "abbr": "ALC",
+  "name": "할당"
+ },
+ {
+  "abbr": "SIGN",
+  "name": "신호"
+ },
+ {
+  "abbr": "TCLS",
+  "name": "차종"
+ },
+ {
+  "abbr": "WGH",
+  "name": "계중"
+ },
+ {
+  "abbr": "FTN",
+  "name": "화통"
+ },
+ {
+  "abbr": "DIA",
+  "name": "다이아"
+ },
+ {
+  "abbr": "WRK",
+  "name": "근무"
+ },
+ {
+  "abbr": "GTWC",
+  "name": "출무"
+ },
+ {
+  "abbr": "ACDT",
+  "name": "사고"
+ },
+ {
+  "abbr": "APRV",
+  "name": "결재"
+ },
+ {
+  "abbr": "ANNC",
+  "name": "발령"
+ },
+ {
+  "abbr": "TERTY",
+  "name": "영역"
+ },
+ {
+  "abbr": "KND",
+  "name": "종류"
+ },
+ {
+  "abbr": "PSTT",
+  "name": "현황"
+ },
+ {
+  "abbr": "DCS",
+  "name": "판정"
+ },
+ {
+  "abbr": "SPEC",
+  "name": "내역"
+ },
+ {
+  "abbr": "SCRT",
+  "name": "보안"
+ },
+ {
+  "abbr": "RSLT",
+  "name": "성적"
+ },
+ {
+  "abbr": "COR",
+  "name": "정정"
+ },
+ {
+  "abbr": "ITST",
+  "name": "강도"
+ },
+ {
+  "abbr": "LCNS",
+  "name": "면허"
+ },
+ {
+  "abbr": "CPL",
+  "name": "연결"
+ },
+ {
+  "abbr": "PRS",
+  "name": "처리"
+ },
+ {
+  "abbr": "SMMN",
+  "name": "소환"
+ },
+ {
+  "abbr": "REQ",
+  "name": "신청"
+ },
+ {
+  "abbr": "TP",
+  "name": "유형"
+ },
+ {
+  "abbr": "JOB",
+  "name": "작업"
+ },
+ {
+  "abbr": "DVC",
+  "name": "장치"
+ },
+ {
+  "abbr": "INFO",
+  "name": "정보"
+ },
+ {
+  "abbr": "STDR",
+  "name": "기준"
+ }
+]
